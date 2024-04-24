@@ -1,0 +1,32 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+nav a {
+	margin-right: 15px;
+}
+
+main {
+	padding: 50px 0;
+	text-align: justify;
+}
+
+main img {
+	max-width: 100%;
+	height: auto;
+}
+
+main h1, h2 {
+	text-align: center;
+}
+main p {
+	text-indent: 30px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+} 
